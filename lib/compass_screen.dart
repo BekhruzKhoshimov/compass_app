@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_compass/flutter_compass.dart';
 
 class CompassScreen extends StatefulWidget {
-  const CompassScreen({super.key});//
+  const CompassScreen({super.key});
 
   @override
   State<CompassScreen> createState() => _CompassScreenState();
